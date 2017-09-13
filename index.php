@@ -1,7 +1,7 @@
 <?php
     echo "<h1>Openshift Workshop o/</h1> ";
     echo "<p>Testando o webhook";
-    echo $_SERVER['SERVER_ADDR']
+    echo $_SERVER['SERVER_ADDR'];
 
     echo "<br><hr>";
     echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
